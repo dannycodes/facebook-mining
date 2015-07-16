@@ -9,9 +9,9 @@ I wanted to see if I could mine data on when I became friends with all my friend
 
 Result
 ------
-![Sample Output](https://github.com/dannycodes/facebook-mining/fb_friends.png)
+![Sample Output](https://github.com/dannycodes/facebook-mining/blob/master/fb_friends.png)
 <br/>
-I used bins to map my data to 3.5 month increments. Note the initial peak (170 friends added in the first 3.5 months), and a later spike corresponding roughly to the start of the 2009 school year (possibly correlating to a spike in friends joining Facebook). 
+I used the builtin histogram to bins to map my data to 3.5 month increments. Note the initial peak (170 friends added in the first 3.5 months), and a later spike corresponding roughly to the start of the 2009 school year (possibly correlating to a spike in friends joining Facebook). 
 
 Implementation
 --------------
