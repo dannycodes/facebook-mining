@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Facebook Friends</title>
+
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.6/d3.min.js" charset="utf-8"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0-alpha1/jquery.min.js"></script>
+	<script src="./fb_data_mine.js"></script>
+
+  <style>
+		 body {
+		  font: 10px sans-serif;
+		}
+		.svg {
+			margin-top:20px;
+			border: 1px solid lightgrey;
+		}
+		.bar rect {
+		  fill: steelblue;
+		  shape-rendering: crispEdges;
+		}
+
+		.bar text {
+		  fill: #fff;
+		}
+
+		.axis path, .axis line {
+		  fill: none;
+		  stroke: #000;
+		  shape-rendering: crispEdges;
+		}
+
+    .bar {
+        display: block;
+        text-align: center;
+        margin: auto;
+    }
+	  </style>
+</head>
+<body>
+	<input type="file" id="input">
+	<div id="mount"></div>
+
+</body>
+</html>
