@@ -7,6 +7,12 @@ Concept
 -------
 I wanted to see if I could mine data on when I became friends with all my friends, and then use D3 to visualize the data. The purpose being twofold: first, to learn how to parse data from Facebook via their API, and second, to learn how to bind data with D3 and present it.
 
+Result
+------
+![Sample Output](https://github.com/dannycodes/facebook-mining/fb_friends.png)
+<br/>
+I used bins to map my data to 3.5 month increments. Note the initial peak (170 friends added in the first 3.5 months), and a later spike corresponding roughly to the start of the 2009 school year (possibly correlating to a spike in friends joining Facebook). 
+
 Implementation
 --------------
 Initially I wanted to use the Graph API to grab my friending data, but unfortunately those types of queries have been pulled from the Graph API, meaning that if you want to grab that data you have to go through the web interface. 
