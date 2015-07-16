@@ -18,13 +18,14 @@ Once I had the data on the D3 side of things, I used the histogram layout to bin
 References
 ----------
 
-Cheerio Parsing in a general sense
+Parsing HTML using Cheerio <br/>
 https://gist.github.com/patorjk/a0a1a1a67ecdd99524a5
 
-Ensure Child Element text isn't returned
+Ensure that a Child Element's text isn't returned <br/>
 http://viralpatel.net/blogs/jquery-get-text-element-without-child-element/
 
-For D3 histogram
+For D3 histogram <br/>
+https://github.com/mbostock/d3/wiki/Histogram-Layout <br/>
 http://stackoverflow.com/questions/17745682/d3-histogram-date-based?lq=1
 
 Thoughts
