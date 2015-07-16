@@ -1,6 +1,6 @@
 Facebook Friends
 ================
-Data Mining and Visualization
+Data Mining and Visualization 
 Experiment #1
 
 Concept
