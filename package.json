@@ -1,0 +1,25 @@
+{
+  "name": "Facebook-Friends",
+  "version": "1.0.0",
+  "description": " Simple experiment in parsing HTML data and visualizing that data with D3.js",
+  "main": "fb_data_mine.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dannycodes/facebook-mining.git"
+  },
+  "keywords": [
+    "data",
+    "mining",
+    "javascript",
+    "cheeriojs"
+  ],
+  "author": "Daniel Adelberg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dannycodes/facebook-mining/issues"
+  },
+  "homepage": "https://github.com/dannycodes/facebook-mining"
+}
